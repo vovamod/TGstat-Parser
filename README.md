@@ -2,7 +2,6 @@
 ### Created by vovamod as a result of his hardwork in understanding Selenium
 
 ---
-![GitHub repo size](https://img.shields.io/github/repo-size/vovamod/TGstat-Parser)
 ![GitHub](https://img.shields.io/github/license/vovamod/TGstat-Parser)
 ![LGTM Grade](https://img.shields.io/lgtm/grade/python/github/vovamod/TGstat-Parser)
 ![GitHub last commit](https://img.shields.io/github/last-commit/vovamod/TGstat-Parser)
